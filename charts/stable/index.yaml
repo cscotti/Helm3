@@ -7,7 +7,7 @@ entries:
     deprecated: true
     description: DEPRECATED A Rundeck chart for Kubernetes
     digest: 2e59293f2ffcb3e13fbaa3b1ae85392ec52fa43616978b7f8706b052f7e799a3
-    home: https://github.com/rundeck/rundeck
+    home: https://github.com/cscotti/helm3
     keywords:
     - rundeck
     - jobs
