@@ -10,3 +10,6 @@ helm repo update
 ```
 helm install rundeck cscotti-stable/rundeck [--version=0.3.6]
 ```
+
+# Markdown
+[![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/cscotti-stable)](https://artifacthub.io/packages/search?repo=cscotti-stable)
