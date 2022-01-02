@@ -3,11 +3,11 @@ entries:
   rundeck:
   - apiVersion: v1
     appVersion: 3.2.7
-    created: "2022-01-02T22:04:13.932893+01:00"
+    created: "2022-01-02T22:28:37.00361+01:00"
     deprecated: true
     description: DEPRECATED A Rundeck chart for Kubernetes
     digest: 2e59293f2ffcb3e13fbaa3b1ae85392ec52fa43616978b7f8706b052f7e799a3
-    home: https://github.com/cscotti/helm3
+    home: https://github.com/rundeck/rundeck
     keywords:
     - rundeck
     - jobs
@@ -19,4 +19,4 @@ entries:
     urls:
     - https://github.com/cscotti/helm3/tree/main/charts/stable/rundeck-0.3.6.tgz
     version: 0.3.6
-generated: "2022-01-02T22:04:13.931083+01:00"
+generated: "2022-01-02T22:28:37.002684+01:00"
