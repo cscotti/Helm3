@@ -13,7 +13,7 @@ helm install rundeck cscotti-stable/rundeck [--version=0.3.6]
 ```
 
 
-# helm package commande
+# helm package commands
 ```
 helm package ./rundeck
 helm repo index --url https://cscotti.github.io/Helm3/stable ./rundeck
